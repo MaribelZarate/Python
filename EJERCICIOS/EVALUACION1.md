@@ -8,9 +8,12 @@ Responder las siguientes preguntas:
 
 1.1 ¿Qué es python? (2 puntos)
 
+* Es un lenguaje de alto nivel de programacion interpretado 
+
 
 1.2 ¿Es multiplataforma en que sistemas operativos funciona ? (2 puntos)
 
+* Si es multiplataforma Windowa  Linux Mac OS
 
 1.3 Ejercicio 1 (2 puntos)
 Escribir un programa que pregunte al usuario su nombre, y luego lo salude.
